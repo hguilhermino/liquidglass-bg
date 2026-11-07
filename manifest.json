@@ -1,7 +1,7 @@
 {
   "start": 0,
   "clips": [
-    {"file": "clips/crab.mp4",           "loop": true, "label": "crab",      "rate": 0.85, "fade": 0.6},
-    {"file": "clips/chameleon_loop.mp4", "loop": true, "label": "chameleon", "rate": 1,    "fade": 0}
+    {"file": "clips/crab.mp4",           "loop": true, "label": "crab",      "rate": 0.85, "fade": 0.6, "hold": 30, "xfade": 1.4},
+    {"file": "clips/chameleon_loop.mp4", "loop": true, "label": "chameleon", "rate": 1,    "fade": 0,   "hold": 30, "xfade": 1.4}
   ]
 }
