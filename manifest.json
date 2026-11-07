@@ -1,12 +1,6 @@
 {
-  "start": 3,
+  "start": 0,
   "clips": [
-    {"file": "clips/v2.mp4",  "loop": false, "label": "v2"},
-    {"file": "clips/v4.mp4",  "loop": false, "label": "v4"},
-    {"file": "clips/v6.mp4",  "loop": false, "label": "v6"},
-    {"file": "clips/v7.mp4",  "loop": true,  "label": "v7"},
-    {"file": "clips/v8.mp4",  "loop": false, "label": "v8"},
-    {"file": "clips/v9.mp4",  "loop": true,  "label": "v9"},
-    {"file": "clips/v10.mp4", "loop": true,  "label": "v10"}
+    {"file": "clips/crab.mp4", "loop": true, "label": "crab", "rate": 0.85, "fade": 0.6}
   ]
 }
