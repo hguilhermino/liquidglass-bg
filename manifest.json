@@ -1,7 +1,50 @@
 {
   "start": 0,
   "clips": [
-    {"file": "clips/crab_loop.mp4",      "loop": true, "label": "crab",      "rate": 0.85, "fade": 0, "hold": 30, "xfade": 1.4},
-    {"file": "clips/chameleon_loop.mp4", "loop": true, "label": "chameleon", "rate": 1,    "fade": 0, "hold": 30, "xfade": 1.4}
+    {
+      "file": "clips/crab.mp4",
+      "loop": false,
+      "label": "caranguejo",
+      "rate": 0.85,
+      "fade": 0,
+      "hold": 25,
+      "xfade": 0.45
+    },
+    {
+      "file": "clips/chameleon_loop.mp4",
+      "loop": true,
+      "label": "camaleão",
+      "rate": 1.0,
+      "fade": 0,
+      "hold": 25,
+      "xfade": 0.45
+    },
+    {
+      "file": "clips/v7_loop.mp4",
+      "loop": true,
+      "label": "ondas",
+      "rate": 1.0,
+      "fade": 0,
+      "hold": 25,
+      "xfade": 0.45
+    },
+    {
+      "file": "clips/forest.mp4",
+      "loop": false,
+      "label": "floresta",
+      "rate": 1.0,
+      "fade": 0,
+      "hold": 25,
+      "xfade": 0.45
+    },
+    {
+      "file": "clips/v9_loop.mp4",
+      "loop": true,
+      "label": "bolhas",
+      "rate": 1.0,
+      "fade": 0,
+      "hold": 25,
+      "xfade": 0.45
+    }
   ]
 }
