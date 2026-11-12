@@ -8,7 +8,7 @@
       "rate": 0.85,
       "fade": 0,
       "hold": 45,
-      "xfade": 0.45
+      "xfade": 0.22
     },
     {
       "file": "clips/chameleon_loop.mp4",
@@ -17,7 +17,7 @@
       "rate": 1.0,
       "fade": 0,
       "hold": 45,
-      "xfade": 0.45
+      "xfade": 0.22
     },
     {
       "file": "clips/v7_loop.mp4",
@@ -26,7 +26,7 @@
       "rate": 1.0,
       "fade": 0,
       "hold": 45,
-      "xfade": 0.45
+      "xfade": 0.22
     },
     {
       "file": "clips/forest.mp4",
@@ -35,7 +35,7 @@
       "rate": 1.0,
       "fade": 0,
       "hold": 45,
-      "xfade": 0.45
+      "xfade": 0.22
     },
     {
       "file": "clips/v9_loop.mp4",
@@ -44,7 +44,7 @@
       "rate": 1.0,
       "fade": 0,
       "hold": 45,
-      "xfade": 0.45
+      "xfade": 0.22
     }
   ]
 }
