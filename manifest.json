@@ -7,7 +7,7 @@
       "label": "caranguejo",
       "rate": 0.85,
       "fade": 0,
-      "hold": 25,
+      "hold": 45,
       "xfade": 0.45
     },
     {
@@ -16,7 +16,7 @@
       "label": "camaleão",
       "rate": 1.0,
       "fade": 0,
-      "hold": 25,
+      "hold": 45,
       "xfade": 0.45
     },
     {
@@ -25,7 +25,7 @@
       "label": "ondas",
       "rate": 1.0,
       "fade": 0,
-      "hold": 25,
+      "hold": 45,
       "xfade": 0.45
     },
     {
@@ -34,7 +34,7 @@
       "label": "floresta",
       "rate": 1.0,
       "fade": 0,
-      "hold": 25,
+      "hold": 45,
       "xfade": 0.45
     },
     {
@@ -43,7 +43,7 @@
       "label": "bolhas",
       "rate": 1.0,
       "fade": 0,
-      "hold": 25,
+      "hold": 45,
       "xfade": 0.45
     }
   ]
